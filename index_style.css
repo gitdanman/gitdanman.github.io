@@ -7,3 +7,8 @@ input {
   font-size: 2em;
   margin: 10px 15px 0;
 }
+
+p {
+  margin: 25px 25px;
+  font-size: 2em;
+}
